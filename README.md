@@ -6,3 +6,4 @@ The course I will be following is the next one: https://www.coursera.org/learn/i
 This is the first course of the especialization by DeepLearning.AI called "TensorFlow Developer Professional Certificate".
 https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses
 
+I'll be working on Google Colab.
