@@ -7,3 +7,5 @@ This is the first course of the especialization by DeepLearning.AI called **"Ten
 https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses
 
 I'll be working on Google Colab.
+
+The comments wil be in Spanish because it is for my own learning. 
